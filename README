@@ -46,3 +46,7 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
+
+My Customizations
+-----------------
+I've patched it with cool autostart and customized the color scheme, the wallpaper is in the repo
